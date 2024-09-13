@@ -1,4 +1,5 @@
 using Calculadora.Services;
+using NuGet.Frameworks;
 
 namespace CalculadoraTestes;
 
@@ -238,32 +239,16 @@ public class CalculadoraTestes
     }
 
     [Theory]
-    [InlineData(8)]
-    [InlineData(10)]
-    [InlineData(16)]
-    [InlineData(20)]
-    public void SaoPares (int num)
+    [InlineData(new int[] { 2, 4, 6, 8, 10, 12 })]
+    public void SaoPares (int[] nums)
     {
-        
-        // Act
-        var resultado = _calc.EhPar(num);
-
-        // Assert
-        Assert.True(resultado);
+        Assert.All(nums, num => Assert.True(_calc.EhPar(num)));
     }
 
     [Theory]
-    [InlineData(5)]
-    [InlineData(7)]
-    [InlineData(9)]
-    [InlineData(11)]
-    public void SaoImpares (int num)
+    [InlineData(new int[] { 1, 3, 5, 7, 9, 11 })]
+    public void SaoImpares (int[] nums)
     {
-        
-        // Act
-        var resultado = _calc.EhPar(num);
-
-        // Assert
-        Assert.False(resultado);
+        Assert.All(nums, num => Assert.False(_calc.EhPar(num)));
     }
 }
