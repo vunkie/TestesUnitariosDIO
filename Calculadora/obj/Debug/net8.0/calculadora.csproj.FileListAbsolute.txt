@@ -12,3 +12,4 @@ C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadora\obj\Debug\net8.0\refint
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadora\obj\Debug\net8.0\calculadora.pdb
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadora\obj\Debug\net8.0\ref\calculadora.dll
+C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
