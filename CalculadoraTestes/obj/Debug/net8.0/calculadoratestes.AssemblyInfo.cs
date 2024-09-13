@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("calculadoratestes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraTestes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("calculadoratestes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("calculadoratestes")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8851584ddc02796a4753b86c58c943644d0a385")]
+[assembly: System.Reflection.AssemblyProductAttribute("CalculadoraTestes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraTestes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

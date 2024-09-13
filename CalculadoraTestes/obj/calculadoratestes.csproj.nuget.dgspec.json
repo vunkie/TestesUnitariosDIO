@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\calculadoratestes\\calculadoratestes.csproj": {}
+    "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\calculadoratestes\\calculadoratestes.csproj": {
+    "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\calculadoratestes\\calculadoratestes.csproj",
-        "projectName": "calculadoratestes",
-        "projectPath": "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\calculadoratestes\\calculadoratestes.csproj",
+        "projectUniqueName": "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj",
+        "projectName": "CalculadoraTestes",
+        "projectPath": "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj",
         "packagesPath": "C:\\Users\\Vunk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\calculadoratestes\\obj\\",
+        "outputPath": "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\CalculadoraTestes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

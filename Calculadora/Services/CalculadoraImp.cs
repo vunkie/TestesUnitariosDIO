@@ -84,6 +84,10 @@ namespace Calculadora.Services
                 return Fibonacci(num1 - 1) + Fibonacci(num1 - 2);
             }
         }
-        
+
+        public bool EhPar(int num1)
+        {
+            return num1 % 2 == 0;
+        }
     }
 }

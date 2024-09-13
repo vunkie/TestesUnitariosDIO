@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DWMTZO0Lg3U=",
+  "dgSpecHash": "DZ9o0u7Vz8I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\calculadoratestes\\calculadoratestes.csproj",
+  "projectFilePath": "C:\\Users\\Vunk\\Aprendizado\\C#\\TestesUnitarios\\CalculadoraTestes\\CalculadoraTestes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vunk\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Vunk\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

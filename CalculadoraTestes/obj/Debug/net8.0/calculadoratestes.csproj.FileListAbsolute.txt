@@ -91,7 +91,6 @@ C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\obj\Debug\net8.0\
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\obj\Debug\net8.0\calculadoratestes.AssemblyInfoInputs.cache
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\obj\Debug\net8.0\calculadoratestes.AssemblyInfo.cs
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\obj\Debug\net8.0\calculadoratestes.csproj.CoreCompileInputs.cache
-C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\obj\Debug\net8.0\calculad.CC768317.Up2Date
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\obj\Debug\net8.0\calculadoratestes.dll
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\obj\Debug\net8.0\refint\calculadoratestes.dll
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\obj\Debug\net8.0\calculadoratestes.pdb
@@ -103,3 +102,5 @@ C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\bin\Debug\net8.0\
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\bin\Debug\net8.0\calculadora.exe
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\bin\Debug\net8.0\calculadora.dll
 C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\bin\Debug\net8.0\calculadora.pdb
+C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\calculadoratestes\obj\Debug\net8.0\calculadoratestes.sourcelink.json
+C:\Users\Vunk\Aprendizado\C#\TestesUnitarios\CalculadoraTestes\obj\Debug\net8.0\Calculad.BD1E45E6.Up2Date

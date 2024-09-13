@@ -17,3 +17,5 @@ Console.WriteLine($"O logaritmo base 10 de {num1} é {c.LogaritmoBase10(num1)}")
 Console.WriteLine($"O logaritmo natural de {num1} é {c.LogaritmoNatural(num1)}");
 Console.WriteLine($"O fatorial de {num1} é {c.Fatorial(num1)}");
 Console.WriteLine($"O {num2}° número de fibonacci é {c.Fibonacci(num2)}");
+Console.WriteLine($"O número {num1} é par? " + (c.EhPar(num1)? "Sim" : "Não"));
+Console.WriteLine($"O número {num2} é par? " + (c.EhPar(num2)? "Sim" : "Não"));

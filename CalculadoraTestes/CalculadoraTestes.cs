@@ -17,16 +17,21 @@ public class CalculadoraTestes
     public void SomarTeste()
     {
         // Somar 5 com 10 e retornar 15
+        // Somar 20 com 30 e retornar 50
 
         // Arrange
         var num1 = 5;
         var num2 = 10;
+        var num3 = 20;
+        var num4 = 30;
 
         // Act
         var resultado = _calc.Somar(num1, num2);
+        var resultado2 = _calc.Somar(num3, num4);
 
         // Assert
         Assert.Equal(15, resultado);
+        Assert.Equal(50, resultado2);
     }
 
     [Fact]
@@ -197,6 +202,25 @@ public class CalculadoraTestes
 
         // Assert
         Assert.Equal(5, resultado);
+    }
+
+    [Fact]
+    public void EhParTeste()
+    {
+        // Verificar se 5 é par e retornar false
+        // Verificar se 10 é par e retornar true
+
+        // Arrange
+        var num1 = 5;
+        var num2 = 10;
+
+        // Act
+        var resultado = _calc.EhPar(num1);
+        var resultado2 = _calc.EhPar(num2);
+
+        // Assert
+        Assert.False(resultado);
+        Assert.True(resultado2);
     }
 
 }
