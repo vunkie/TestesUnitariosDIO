@@ -223,4 +223,47 @@ public class CalculadoraTestes
         Assert.True(resultado2);
     }
 
+    [Theory]
+    [InlineData(5, 10, 15)]
+    [InlineData(10, 10, 20)]
+    [InlineData(15, 35, 50)]
+    public void SomarTesteTheory(int num1, int num2, int resultadoEsperado)
+    {
+        // Arrange
+        // Act
+        var resultado = _calc.Somar(num1, num2);
+
+        // Assert
+        Assert.Equal(resultadoEsperado, resultado);
+    }
+
+    [Theory]
+    [InlineData(8)]
+    [InlineData(10)]
+    [InlineData(16)]
+    [InlineData(20)]
+    public void SaoPares (int num)
+    {
+        
+        // Act
+        var resultado = _calc.EhPar(num);
+
+        // Assert
+        Assert.True(resultado);
+    }
+
+    [Theory]
+    [InlineData(5)]
+    [InlineData(7)]
+    [InlineData(9)]
+    [InlineData(11)]
+    public void SaoImpares (int num)
+    {
+        
+        // Act
+        var resultado = _calc.EhPar(num);
+
+        // Assert
+        Assert.False(resultado);
+    }
 }
